@@ -1,5 +1,5 @@
 <div id="header" align="center">
-	<img src="https://media.discordapp.net/attachments/966090379185246278/966090689580507256/unknown.png" width="100"/>
+	<img src="https://avatars.githubusercontent.com/u/21962065?v=4" width="100"/>
 </div>
 
 <div id="badges" align="center">
