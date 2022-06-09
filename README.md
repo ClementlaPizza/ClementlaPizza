@@ -25,6 +25,7 @@ I develop out of passion and curiosity
 	<img width="40" height="40" alt="sublime text" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png">
 	<img width="40" height="40" alt="sublime merge" src="https://1.bp.blogspot.com/-_YIEEn5rmdc/XtMvatwaRkI/AAAAAAAAT-s/BGQhnk5R7Fo0RG7UO652Ze4OEtq_aZBuwCLcBGAsYHQ/s1600/Sublime-Merge-.png">
 </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementlapizza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
