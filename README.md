@@ -3,9 +3,15 @@
 </div>
 
 <div id="badges" align="center">
-	<img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
-	<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-	<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+	<a href="https://www.twitch.tv/clementlapizza">
+		<img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
+	</a>
+	<a href="https://www.youtube.com/channel/UCgdr71S1QNCwghD6zMz2Fcw">
+		<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+	</a>
+	<a href="https://twitter.com/ClementlaPizza">
+		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+	</a>
 </div>
 
 <div id="badge2" align="center">
